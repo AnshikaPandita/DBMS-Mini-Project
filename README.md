@@ -11,3 +11,16 @@ This system will contain all the details of the users as well as the venues and 
 2. To allow admin to login themselves in the system. 
 3. To allow the system admin to view the list of all events booked by all users and also filter it by past and upcoming events.
 
+# Some Snaps
+
+![image](https://github.com/AnshikaPandita/DBMS-Mini-Project/assets/96713901/1d1cceba-8d4a-4e44-9cf6-7d8491009fd4)
+
+![image](https://github.com/AnshikaPandita/DBMS-Mini-Project/assets/96713901/a716ff6e-9459-406b-8669-15dad84c44b0)
+
+![image](https://github.com/AnshikaPandita/DBMS-Mini-Project/assets/96713901/bf3ac3c4-142e-46fe-b227-8b6a398493ea)
+
+![image](https://github.com/AnshikaPandita/DBMS-Mini-Project/assets/96713901/46676afe-58be-4f60-94d9-3fb7f897929c)
+
+![image](https://github.com/AnshikaPandita/DBMS-Mini-Project/assets/96713901/b4e86f05-cf85-4990-8237-35086ed3141b)
+
+
